@@ -24,6 +24,6 @@ You should create one R script called **run_analysis.R** that does the following
 ## Repository Contents:
 My repository contains the following files:
 - README.md   
-- CODEBOOK.md  
+- Codebook.html  
 - run_analysis.R
-- TidyData.txt   
+- Tidy Data.txt   
